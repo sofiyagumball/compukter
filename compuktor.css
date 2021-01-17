@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header p {
+    background-color: white;
+    color: blue
+}
+
+header img {
+    width: 60px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 img {
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    font-size: 20px;
+}
+
+p img {
+    width: 100px;
+    height: 100px;
+}
+
+footer p {
+    background-color: white;
+    color: blue;
+}
+
+main p {
+    background-color:#f7ec7fff;
+}
+
+footer {
+    background-color: peru;
+}
